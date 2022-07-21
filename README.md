@@ -3,6 +3,7 @@
 
 ## Description
 Prompts the user for information about their project to generate a professional README file.
+A video walkthrough of this application can be viewed [here](./walkthrough.webm).
 
 ## Table of Contents
 - [Installation](#installation)
